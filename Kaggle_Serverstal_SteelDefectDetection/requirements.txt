@@ -1,0 +1,5 @@
+imageio
+segmentation-models-pytorch
+pytorch
+torchvision
+torchsummary
