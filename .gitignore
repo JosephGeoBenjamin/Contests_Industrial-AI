@@ -5,4 +5,3 @@ hypotheses
 logs
 data/*
 datasets/*
-!datasets/*.ipynb

@@ -1,0 +1,9 @@
+numpy
+torch
+torch-summary
+torchvision
+scipy
+tqdm
+h5py
+
+bio-embeddings[all]
