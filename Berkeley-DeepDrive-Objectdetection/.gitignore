@@ -1,0 +1,11 @@
+data
+log*
+*.log
+temp*
+hypotheses
+
+!README.md
+!readme.md
+__pycache__
+.ipynb_checkpoints/
+*.zip
